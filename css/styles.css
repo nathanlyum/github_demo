@@ -1,0 +1,24 @@
+body{
+	background-color: aquamarine;
+}
+
+
+h1{
+
+	color: blue;
+}
+
+div.shape{
+	background-color: black;
+	width:100px;
+	height:100px;
+	margin:10px;
+}div#circle{
+border-radius: 100%;
+}
+
+img{
+	width:300px;
+	height:300px;
+	border-radius: 100%;
+}
